@@ -1,6 +1,5 @@
 #include <stdio.h>
-
-
+//By ACB
 int main()
 {
 	for (int i = 1; i <= 100; i++){
