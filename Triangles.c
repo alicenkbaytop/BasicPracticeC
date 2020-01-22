@@ -12,8 +12,7 @@ int main()
 			}
 			else 
 			{
-					printf("%d",j);
-				
+				printf("%d",j);
 			}
 		}
 		printf("\n");
